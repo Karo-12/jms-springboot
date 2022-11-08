@@ -3,7 +3,7 @@
 Spring Boot with ActiveMQ messaging system 
 
 
-#Starting docker container with Active MQ Artemis on Windows:
+# Starting docker container with Active MQ Artemis on Windows:
 
  docker run -it --rm ^\
 -p 8161:8161 ^\
